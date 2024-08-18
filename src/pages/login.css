@@ -1,0 +1,35 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    
+    
+    
+}
+.formdiv{
+    
+    align-self: center;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    
+
+}
+label {
+    margin-top: 0.5em;
+}
+
+input {
+    padding: 0.5em;
+    
+    width: 100%;
+    box-sizing: border-box;
+}
+button{
+    margin-top: 0.5em;
+    width: 15%;
+    align-self: center;
+    height: 25px;
+}

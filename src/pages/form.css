@@ -1,0 +1,7 @@
+.boxform{
+    display: flex;
+    flex-direction: column;
+    display: flex;
+  justify-content: space-around; /* aligns the items horizontally */
+  align-items: center;
+}
